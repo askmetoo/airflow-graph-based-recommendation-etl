@@ -18,7 +18,7 @@ Our data consists of user and room meta data extracted for a subset of users fro
 
 #### Data Exploration
 
-An initial exploration of the data can be found [here](notebooks/ExploratorDataAnalysis.ipynb)
+An initial exploration of the data can be found [here](notebooks/ExploratoryDataAnalysis.ipynb)
 
 ##### Key Takeaways
 
