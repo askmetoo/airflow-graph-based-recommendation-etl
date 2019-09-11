@@ -1,0 +1,1001 @@
+id,slug,topics
+1,Help,Non-Market Talk
+2,Stocktwits,Long Term Investing
+3,AskJustin,Non-Market Talk
+4,MarketConspiracies,Education
+5,quantnews,Quant
+6,trupunx,"Long Term Investing,Non-Market Talk,Green Energy"
+7,FinTech,"Technology,Fundamentals"
+8,DataAndAI,"Education,Quant,Non-Market Talk"
+9,SmarterThantheAverageBear,"Day Trading,Swing Trading,Education"
+10,jamtrades,"Swing Trading,Momentum Trading"
+11,Tradealike,"Day Trading,Swing Trading,Technicals"
+12,crypto,Cryptocurrencies
+13,greattraders,"Swing Trading,Biotechnology,Technicals"
+14,profitmissioncontrol,"Day Trading,Momentum Trading,Education"
+15,Insider,"Futures,Cryptocurrencies,Day Trading"
+16,greenblatt_piotroski,"Long Term Investing,Fundamentals,Personal Finance"
+17,technology,Technology
+18,Charts,"Education,Technicals"
+19,magicformula,"Long Term Investing,Fundamentals,Personal Finance"
+20,etf,ETFs
+21,UnitedTraders,"Day Trading,Swing Trading,Momentum Trading"
+22,serious,"Options,Swing Trading,Technicals"
+23,robin,"Swing Trading,Education"
+24,hodl,"Cryptocurrencies,Technology,Technicals"
+25,theCatalyst,"Day Trading,Momentum Trading,Education"
+26,Blockchain,Technology
+27,otc,Swing Trading
+28,TheWhiteRabbit,"Day Trading,Momentum Trading,Non-Market Talk"
+29,robinhood,"Day Trading,Long Term Investing,Technology"
+30,TradersMindset,Day Trading
+31,villatrades,"Futures,Options,Technicals"
+32,money,"Long Term Investing,Momentum Trading,Fundamentals"
+33,wallstreetbets,"Education,Non-Market Talk,News"
+34,TWR,"Day Trading,Momentum Trading,Non-Market Talk"
+35,cryptocurrency,"Cryptocurrencies,Technology,News"
+36,trojanhorse,Cryptocurrencies
+37,todaysMomentum,Momentum Trading
+38,daytrading,Day Trading
+39,the_president_did_what,News
+40,Rabbit,"Day Trading,Non-Market Talk"
+41,noob,Day Trading
+42,ESF,"Futures,Day Trading"
+43,FrogsNDucksAllNightBar,Non-Market Talk
+44,jimcramer,Equities
+45,cramer,Education
+46,warrenbuffet,Equities
+47,Atlas_Trading,Day Trading
+48,politics,"Education,Non-Market Talk,News"
+49,noremacnewelltrading,Day Trading
+50,biotechbulls,Biotechnology
+51,TheBigStack,"Global Macro,Technology,News"
+52,nadex,"Options,Day Trading,Education"
+53,News,"Non-Market Talk,News"
+54,ESfutures,Futures
+55,_camtheman,Day Trading
+56,camtheman_,Day Trading
+57,camthescam,Day Trading
+58,OTMFEVER,Equities
+59,ascendtrading,Day Trading
+60,rulesofthumb,Education
+61,MomoTrading,Momentum Trading
+62,SharkTrading,Technicals
+63,Cryptocoins,Cryptocurrencies
+64,BearBashingOnly,Non-Market Talk
+65,cvsi,"Swing Trading,Momentum Trading,Equities"
+66,themarketisopen,News
+67,CrackedMarket,"Swing Trading,Education,ETFs"
+68,wallstr,"Cryptocurrencies,Options,Day Trading"
+69,wallstreet,"Cryptocurrencies,Day Trading,Swing Trading"
+70,beatthebulls,"Options,Equities,Non-Market Talk"
+71,PennyStocks,Day Trading
+72,KillerCalls,"Day Trading,Momentum Trading"
+73,Ovacho,"Day Trading,Swing Trading,Education"
+74,MonsterCalls,Swing Trading
+75,RomperRoom,"Long Term Investing,Personal Finance"
+76,derivativedge,"Options,Swing Trading,Equities"
+77,JordanBelfort,Education
+78,bio_runup,"Day Trading,Swing Trading,Biotechnology"
+79,swingtraders,Swing Trading
+80,atlastrading_furu,"Day Trading,Education"
+81,StockMarket,Global Macro
+82,quantum,"Day Trading,Swing Trading,Momentum Trading"
+83,day_trading,Day Trading
+84,KillerTrades,"Options,Day Trading,Momentum Trading"
+85,atlas_furu_trading,Day Trading
+86,ShortRoom,Day Trading
+87,robinhood_penny_stocks,Day Trading
+88,tradesmartstocks,"Day Trading,Momentum Trading"
+89,tradesmart_stocks,"Day Trading,Biotechnology"
+90,trade_smart_stocks,Day Trading
+91,wsb,"Day Trading,Technology,Biotechnology"
+92,SmallCaps,Technicals
+93,ripple,Cryptocurrencies
+94,SmallCapWorld,Day Trading
+95,greatinvestmentideas,"Swing Trading,Personal Finance"
+96,TheMagician,Momentum Trading
+97,xrp,Cryptocurrencies
+98,Discord,Day Trading
+99,penny_stocks,Day Trading
+100,Poetcoin,Cryptocurrencies
+101,KillerTrading,"Day Trading,Education,Equities"
+102,allstartrading,Day Trading
+103,AllStartTrading,Day Trading
+104,all_star_trading,"Day Trading,Education"
+105,poloniexmargintrading,Cryptocurrencies
+106,cryptoheads,Cryptocurrencies
+107,YecoValleyFire,Day Trading
+108,Ripple_XRP,Cryptocurrencies
+109,BTC_ETF,Cryptocurrencies
+110,Stock_Twits,Day Trading
+111,btcx,Cryptocurrencies
+112,XRPX,Cryptocurrencies
+113,SniperTrading,"Day Trading,Momentum Trading"
+114,WorldEquities,"Equities,Fundamentals"
+115,CameronNewellTrading,Day Trading
+116,TrendTrading,"Global Macro,Technicals"
+117,RippleXRP,Cryptocurrencies
+118,futures,Futures
+119,MichaelBozo,Day Trading
+120,Trading,Education
+121,leveragedetfs,"Options,Day Trading,ETFs"
+122,investheory,"Options,Day Trading,Swing Trading"
+123,Options,Options
+124,Value_Momentum_Traders,"Futures,Long Term Investing,Equities"
+125,Short,"Day Trading,Swing Trading"
+126,Education,Education
+127,Nasdaq,Long Term Investing
+128,TDAmeritrade,Long Term Investing
+129,GoldmanSachs,Long Term Investing
+130,ETFs,ETFs
+131,surinotes,"Futures,Swing Trading,Quant"
+132,CharlesSchwab,Personal Finance
+133,Fidelity,Personal Finance
+134,cryptoclub,Cryptocurrencies
+135,MerrilLynch,Personal Finance
+136,The_illusionist,Day Trading
+137,itsallaboutheoptions_sms,"Cryptocurrencies,Options,Technicals"
+138,Stock_Market,Global Macro
+139,Small_Caps,Day Trading
+140,Traders_for_Charity,"Day Trading,Swing Trading"
+141,Biotech,"Day Trading,Swing Trading,Biotechnology"
+142,Biotechnology,Biotechnology
+143,trading4living,"Day Trading,Momentum Trading,Technicals"
+144,stockmarkets,Long Term Investing
+145,psinvestments,"Day Trading,Swing Trading,Momentum Trading"
+146,itsallaboutheoptions_chat,"Options,Day Trading,Education"
+147,howietown,"Long Term Investing,Momentum Trading,Technology"
+148,itsallaboutheoptions_faq,Options
+149,StockMarketInvesting,"Long Term Investing,Education,Technicals"
+150,techoptions,"Options,Technology"
+151,itsallaboutheoptions_flow,Options
+152,Tradewithzeus,Day Trading
+153,Wolfofwallstreet,"Cryptocurrencies,Day Trading,Swing Trading"
+154,itsallaboutheoptions_,"Options,Technology"
+155,AI_Trading,"Options,Technology"
+156,toTheMUon,"Options,Technicals"
+157,Jalen,Equities
+158,JalenJ,Day Trading
+159,BitcoinBling,"Cryptocurrencies,Long Term Investing"
+160,healthcare,"Long Term Investing,Technology,Biotechnology"
+161,stratosphere,"Swing Trading,Momentum Trading"
+162,axecapital,Technicals
+163,altcoins,Cryptocurrencies
+164,Liverpool,"Swing Trading,Fundamentals,Technicals"
+165,coinbase,Cryptocurrencies
+166,altcoin,"Cryptocurrencies,Education,Technology"
+167,optionsyacht,"Futures,Options,Day Trading"
+168,Effective_Investing,"Options,Day Trading,Swing Trading"
+169,thegifhub,Non-Market Talk
+170,prometheus,Equities
+171,snap,Cryptocurrencies
+172,daytradersanonymous,"Options,Day Trading,Equities"
+173,wolfpack,"Day Trading,Swing Trading,Momentum Trading"
+174,CryptoGains,Cryptocurrencies
+175,Blackbox,"Day Trading,Education"
+176,boilerroom,"Long Term Investing,Global Macro,Fundamentals"
+177,HatchingGains,"Swing Trading,Momentum Trading"
+178,Tech,Technology
+179,buythedip,"Day Trading,Swing Trading,Momentum Trading"
+180,ICOs,Cryptocurrencies
+181,disruptivebiotech,"Long Term Investing,Biotechnology"
+182,MATH,Technicals
+183,benzinga,"Day Trading,Swing Trading,Long Term Investing"
+184,futurefaangs,"Long Term Investing,Technology,News"
+185,longterminvestors,Long Term Investing
+186,fda,Biotechnology
+187,awakntv,Technology
+188,pennystocksncryptos,"Cryptocurrencies,Swing Trading,Technicals"
+189,stocksnipers,"Day Trading,Swing Trading,Momentum Trading"
+190,daytraders,"Day Trading,Momentum Trading,Equities"
+191,topgainers,"Day Trading,Momentum Trading,Equities"
+192,EquityIndexFuture,Futures
+193,thetradesniper,"Day Trading,Momentum Trading,Equities"
+194,towndrunk,"Biotechnology,Fundamentals"
+195,microcapvalue,Fundamentals
+196,NEO_Ecosystem,"Cryptocurrencies,Long Term Investing,News"
+197,onthegotrades,"Swing Trading,Momentum Trading,Technicals"
+198,fixedincome,Long Term Investing
+199,financestudents,Education
+200,techies,Technology
+201,securities_fraud,News
+202,longhaul,Long Term Investing
+203,lowfloat,"Day Trading,Swing Trading,Technicals"
+204,optiontrading,Options
+205,argentina,Equities
+206,xrpandripple,"Cryptocurrencies,Long Term Investing,News"
+207,actrader,Swing Trading
+208,flips,Biotechnology
+209,cointalk,Cryptocurrencies
+210,buy,Technicals
+211,fightroom,"Forex,Cryptocurrencies,Precious Metals"
+212,rareanduntreated,Biotechnology
+213,tradenews,"Equities,Technicals"
+214,shorts,"Swing Trading,Momentum Trading,Technicals"
+215,stocks,"Equities,Biotechnology,Technicals"
+216,bubble,"Equities,Technology,Biotechnology"
+217,helper,"Technology,Fundamentals"
+218,moneyroom,"Day Trading,Momentum Trading,News"
+219,optionscafe,Options
+220,tradesmart,Day Trading
+221,spanish_traders,News
+222,stockbot,Day Trading
+223,tradeideas,Day Trading
+224,naturalgas,"Futures,Fundamentals,Energy"
+225,sleepinggiants,"Swing Trading,Momentum Trading,Biotechnology"
+226,noobcombo,Education
+227,alphaAnon,"Options,Day Trading,Education"
+228,deepvalue,"Long Term Investing,Equities,Fundamentals"
+229,bag_holders_with_attitude,News
+230,valueinvesting,"Long Term Investing,Equities,Fundamentals"
+231,longterm,"Long Term Investing,Fundamentals"
+232,value,"Long Term Investing,Fundamentals"
+233,Marijuana,"Long Term Investing,Equities"
+234,brechertradingfree,"Options,Momentum Trading,Technicals"
+235,magic,Day Trading
+236,commonking,"Long Term Investing,Education,Fundamentals"
+237,Tradenet_Stock_Talks,"Day Trading,Swing Trading,Education"
+238,fantasyfootball,Non-Market Talk
+239,fairfield,"Day Trading,Technology,Non-Market Talk"
+240,garp,"Long Term Investing,Education,Fundamentals"
+241,brands,"Long Term Investing,Fundamentals"
+242,india,"Equities,Fundamentals,News"
+243,moats,"Long Term Investing,Equities,Fundamentals"
+244,nyc,"Long Term Investing,Equities,Fundamentals"
+245,OceanTradeClub,"Day Trading,Swing Trading,Technicals"
+246,investing,"Long Term Investing,Equities,Fundamentals"
+247,lookingforanalysts,Education
+248,equitysight,"Swing Trading,Technology,Technicals"
+249,equityinsight,"Long Term Investing,Momentum Trading"
+250,momentumdaytrades,Day Trading
+251,daytrades,Day Trading
+252,treyluhbuhnz,Options
+253,Commodity,"Global Macro,Precious Metals,Energy"
+254,keepitsimple,"Options,Equities,ETFs"
+255,fugazi,"Cryptocurrencies,Day Trading,Education"
+256,LongAndShortIdeas,"Options,Swing Trading,Momentum Trading"
+257,shortselling,Day Trading
+258,Shorting,Day Trading
+259,unsualoptionactivity,Options
+260,study,"Global Macro,Fundamentals,Technicals"
+261,10baggers,"Biotechnology,Fundamentals,Technicals"
+262,classifiedtrades,Day Trading
+263,wallstreetmonkey,Options
+264,ian,"Long Term Investing,Technology,News"
+265,uoa,Options
+266,techworld,Technology
+267,tradebanter,News
+268,smallaccounts,Swing Trading
+269,traders_with_pets,Non-Market Talk
+270,optiontraders,Options
+271,DFS,Non-Market Talk
+272,connections,Non-Market Talk
+273,tradingtech,"Long Term Investing,Technology"
+274,swinganmomentum,"Swing Trading,Momentum Trading"
+275,30VolatileTradeOptions,"Options,Swing Trading,Technicals"
+276,vanguard,"Long Term Investing,ETFs"
+277,modifieddarvasbox_room,"Equities,Fundamentals,Technicals"
+278,ThePod,Day Trading
+279,bearish,"Day Trading,Fundamentals"
+280,Markets,News
+281,MarketWatch,"Education,News"
+282,momentum,Momentum Trading
+283,truth_discovery_rangers,"Long Term Investing,Global Macro,Technology"
+284,Technical_Analysis,"Swing Trading,Technicals"
+285,technofundamentalist,Fundamentals
+286,MarketMemes,Non-Market Talk
+287,novawealth,"Technology,Non-Market Talk,Personal Finance"
+288,optionflow,"Options,Equities,Technicals"
+289,gurus,Day Trading
+290,avawealth,Day Trading
+291,faang,Equities
+292,Gamers,Non-Market Talk
+293,KINGSMEN,"Day Trading,Swing Trading,Education"
+294,tanktoptrader,"Day Trading,Swing Trading,Equities"
+295,smallaccount,"Day Trading,Education"
+296,truemarketleaders,Education
+297,ALswingtraders,Swing Trading
+298,DantesPeak,"Futures,Options,Global Macro"
+299,marketgenius,Day Trading
+300,eliteboardmembers,"Swing Trading,Long Term Investing,Technicals"
+301,fed,News
+302,nyse,News
+303,volatilestocks,"Day Trading,Swing Trading,Technology"
+304,strattonoakmontinc,"Day Trading,Swing Trading,Long Term Investing"
+305,billionaireclubcollc,"Swing Trading,Education,Fundamentals"
+306,esports,Non-Market Talk
+307,PriceAction,"Momentum Trading,Equities,ETFs"
+308,trump_trades,Momentum Trading
+309,OG_FT,Day Trading
+310,Jasonbondpicks,"Day Trading,Swing Trading,Education"
+311,short_vol,Options
+312,timsykes,"Day Trading,Swing Trading"
+313,screeners,"Day Trading,Long Term Investing,Education"
+314,hydroplosion,Non-Market Talk
+315,swingtrades,Swing Trading
+316,pdufa_plays,"Biotechnology,Fundamentals,Technicals"
+317,mariac,Day Trading
+318,pdufa,"Biotechnology,Fundamentals,Technicals"
+319,tradesideas,Day Trading
+320,trolling,Non-Market Talk
+321,trade_ideas,Day Trading
+322,pennyrunners,"Day Trading,Swing Trading,Momentum Trading"
+323,SavedByTheBell,"Day Trading,Momentum Trading"
+324,VOLATILITY,"Futures,Options,ETFs"
+325,Traderslounge,"Day Trading,Swing Trading,Equities"
+326,theblock,Cryptocurrencies
+327,stanweinstein,Momentum Trading
+328,chann,Day Trading
+329,charttrading,"Swing Trading,Momentum Trading"
+330,OptionGods,"Options,Day Trading"
+331,wallstreet_history,Education
+332,EarningsTrading,"Momentum Trading,Equities,Quant"
+333,nickelforward,Day Trading
+334,jg_premium,"Equities,Quant"
+335,artificial_intelligence,Technology
+336,call_options,Options
+337,daytrading_options,"Options,Day Trading"
+338,tradealerts,"Swing Trading,Momentum Trading"
+339,storytrading,"Momentum Trading,News"
+340,No_Pennies,"Day Trading,Swing Trading,Education"
+341,StoryTradingOptions,Options
+342,OptionsSelling,Options
+343,microcaps,Long Term Investing
+344,swingoptions,"Swing Trading,Momentum Trading"
+345,dividends,"Long Term Investing,Equities"
+346,unicorns,Long Term Investing
+347,lowfloaters,Day Trading
+348,earnings,"Momentum Trading,News"
+349,ShortOptions,Options
+350,OptionSelling,Options
+351,Spikes_Only,"Momentum Trading,Fundamentals"
+352,optiontraderpros,"Options,Day Trading"
+353,markgomesstocks,"Education,Technology,Fundamentals"
+354,EarningsTrades,Momentum Trading
+355,StoryTradingResearchGroup,"Swing Trading,Long Term Investing,Fundamentals"
+356,WhisperNumbers,News
+357,dividend_hunters,Long Term Investing
+358,OrganizedChaosTrading,Technicals
+359,makingmoney,Education
+360,vix,Futures
+361,BillionaireBoysClub,"Day Trading,Technology"
+362,steelindustryUSA,"Equities,Fundamentals"
+363,precisionoptions,Options
+364,justingoheen,"Equities,Fundamentals,Quant"
+365,shortinterest,Momentum Trading
+366,aicody,"Technicals,News"
+367,puts,Options
+368,sellingoptions,Options
+369,pumpanddump,Swing Trading
+370,trade,"Day Trading,Swing Trading,Equities"
+371,coin,Cryptocurrencies
+372,dividend,Equities
+373,Networks,"Long Term Investing,Technology,Fundamentals"
+374,chinesestocks,Equities
+375,Theconfessional,"Equities,News"
+376,etf_education,ETFs
+377,FriendlyBantor,"Education,Equities"
+378,quant,Quant
+379,FinTech_Premium,"Technology,Fundamentals,Personal Finance"
+380,premium,Day Trading
+381,cryptocurrencies,Cryptocurrencies
+382,German_Investors,"Global Macro,Education,Non-Market Talk"
+383,TechnicalSwingTrading,"Swing Trading,Technicals"
+384,oott,"Futures,Day Trading,Energy"
+385,value_investing101,Fundamentals
+386,futuresafterdark,Technicals
+387,swingtrader,Swing Trading
+388,alphax,"Options,Education,Technicals"
+389,mariac82,Day Trading
+390,optio,Options
+391,optionstl,Options
+392,kevinwolcott,Biotechnology
+393,ac_trader,Options
+394,paulnaomi,Day Trading
+395,bagholdersunited,Biotechnology
+396,bitcoiners,"Cryptocurrencies,Day Trading"
+397,buyandhold,Long Term Investing
+398,loserslounge,Biotechnology
+399,china,"Global Macro,News"
+400,biotechpennytrades,Biotechnology
+401,bearkilling,"Day Trading,Swing Trading,Technicals"
+402,risktrades,"Day Trading,Swing Trading"
+403,avalanchecapital,"Options,Swing Trading,Momentum Trading"
+404,Shakas_PlayRoom,Non-Market Talk
+405,valuestocks,"Equities,Fundamentals"
+406,RISKTRADE,"Day Trading,Swing Trading"
+407,Elliott_Wave_Analysis,"Day Trading,Swing Trading,Technicals"
+408,gaintrain,"Swing Trading,Technicals"
+409,hilarious,"Options,ETFs"
+410,SmallCapMomo,"Day Trading,Swing Trading,Education"
+411,BiloSelhi,"Cryptocurrencies,Day Trading,Swing Trading"
+412,pierce,"Long Term Investing,Technology,Non-Market Talk"
+413,wbs,"Day Trading,Equities,Fundamentals"
+414,dailyprofits,Swing Trading
+415,Tradereversal,"Swing Trading,Long Term Investing,Technicals"
+416,fundamentals,"Long Term Investing,Fundamentals"
+417,contractresearchorg,Biotechnology
+418,daytrade,"Day Trading,Momentum Trading,Technicals"
+419,quickbucks,"Day Trading,Momentum Trading,News"
+420,optionsdaytrading,"Options,Day Trading,Education"
+421,recessionproof,"Long Term Investing,Education,Personal Finance"
+422,FindAMod,Non-Market Talk
+423,SiriusContest,Day Trading
+424,robinhood1,"Day Trading,Education,Technology"
+425,moon,"Cryptocurrencies,Day Trading,Education"
+426,customtradeplan,"Swing Trading,Non-Market Talk,Personal Finance"
+427,ChartPatternsTim,"Swing Trading,Fundamentals,Technicals"
+428,Everytimeicash,Momentum Trading
+429,upnow,"Education,Biotechnology,Energy"
+430,ShortVolShow,Education
+431,memestocks,"Options,Day Trading,Technology"
+432,Cryptos,Cryptocurrencies
+433,mspc_psnxd,News
+434,CBOEVETS,Options
+435,wyckoff,"Swing Trading,Education,Technicals"
+436,SultanTrades,"Day Trading,Equities,Personal Finance"
+437,forex_trading,"Futures,Forex,Precious Metals"
+438,trader,"Forex,Day Trading,Energy"
+439,redfog,Cryptocurrencies
+440,TraderLion,"Swing Trading,Education,Technicals"
+441,SultanTradesFree,"Day Trading,Equities"
+442,Nano,Cryptocurrencies
+443,Chartsandpatterns,"Swing Trading,Fundamentals,Technicals"
+444,1SimpleMemes,Non-Market Talk
+445,Vanadium,"News,Green Energy"
+446,Airdrops,Cryptocurrencies
+447,moneymaker,"Swing Trading,Long Term Investing,Momentum Trading"
+448,fundamentalcrypto,"Cryptocurrencies,Long Term Investing,Fundamentals"
+449,vslash,"Cryptocurrencies,Day Trading,Education"
+450,MOMO,Momentum Trading
+451,best_option_strategies,"Options,Day Trading,Technicals"
+452,crude_futures,"Futures,Day Trading,Energy"
+453,technicalfuturesgroup,Futures
+454,BitcoinCash,Cryptocurrencies
+455,InstitutionalOptionsFlow,"Options,Day Trading,Swing Trading"
+456,OptionsPlay,"Options,Swing Trading"
+457,52_week_high,Momentum Trading
+458,gambling,News
+459,Monero,Cryptocurrencies
+460,ipowatch,"Long Term Investing,News"
+461,letslosemoney,"Options,Technology"
+462,biopharma,Biotechnology
+463,trendfollowing,"Swing Trading,Momentum Trading,Equities"
+464,MACD,Momentum Trading
+465,behavioralinvesting,Education
+466,diyinvesting,"Education,Personal Finance"
+467,swingtrade,Swing Trading
+468,momentumtrading,"Day Trading,Momentum Trading,News"
+469,cryptofundamentals,Cryptocurrencies
+470,adcom,Biotechnology
+471,adcomtracker,Biotechnology
+472,twotrillionusd,Technology
+473,adcomnews,Biotechnology
+474,101,"Swing Trading,Fundamentals,ETFs"
+475,logvinenko,"Forex,Day Trading,Swing Trading"
+476,biz,"Cryptocurrencies,Long Term Investing,Non-Market Talk"
+477,WEED,Fundamentals
+478,autismspeaks,News
+479,bulloptions,Options
+480,daytradin,"Day Trading,Swing Trading,Momentum Trading"
+481,Pharma,Biotechnology
+482,Shrinkology,Education
+483,optionsanddaytrading,"Options,Day Trading"
+484,falardemercados,"Swing Trading,Global Macro,Fundamentals"
+485,valueinvestors,"Long Term Investing,Quant"
+486,UpcomingIPOs,News
+487,marketstreet,"Options,Day Trading,Long Term Investing"
+488,eattradelove,"Long Term Investing,Momentum Trading,Non-Market Talk"
+489,estimates,Fundamentals
+490,cryptodamus,"Cryptocurrencies,Day Trading,Swing Trading"
+491,TradersDen,Swing Trading
+492,Estimize,Non-Market Talk
+493,BeBetter,Education
+494,FDAtrials,Biotechnology
+495,thelongs,Long Term Investing
+496,420,Education
+497,sportsbook,News
+498,poker,Non-Market Talk
+499,joefahmysfanclub,"Day Trading,Swing Trading,Fundamentals"
+500,Claytrader,Education
+501,militaryindustconplex,"Long Term Investing,News"
+502,StockTwitsNYCMeetup,"Education,Equities,Non-Market Talk"
+503,pnn,"Cryptocurrencies,Long Term Investing"
+504,investinglongterm,Long Term Investing
+505,Alpha_Eye,"Momentum Trading,Education,Technicals"
+506,wallstbets,"Non-Market Talk,News,Personal Finance"
+507,pennystockpicks,Swing Trading
+508,ScalpFutures,Futures
+509,portfoliobuildingandedu,"Options,Long Term Investing,Education"
+510,learnoptions,"Options,Education,Fundamentals"
+511,machinelearning,"Day Trading,Technology,Quant"
+512,preciousmetals,Precious Metals
+513,TeamAllIn,Options
+514,optionideas,Options
+515,pump,Cryptocurrencies
+516,energy,Energy
+517,biotechnews,"Long Term Investing,Biotechnology"
+518,Early_Stage_Breakouts,Momentum Trading
+519,CryptoSignals,"Cryptocurrencies,Fundamentals,Technicals"
+520,lifesciences,Biotechnology
+521,cryptochat,Cryptocurrencies
+522,datascience,"Technology,Fundamentals,Quant"
+523,algorithmic,"Swing Trading,Momentum Trading,Quant"
+524,room,Non-Market Talk
+525,marketchameleon,"Options,ETFs,News"
+526,ronsroom,Day Trading
+527,ironwood,"Cryptocurrencies,Fundamentals,Technicals"
+528,TradingExperts,"Swing Trading,Momentum Trading,Technicals"
+529,newtech,Technology
+530,greenroom,Day Trading
+531,growthstocks,"Momentum Trading,Equities,Fundamentals"
+532,bitcoinetfs,"Cryptocurrencies,ETFs"
+533,cryptoETFs,"Cryptocurrencies,ETFs"
+534,staygreen,"Day Trading,Education,Equities"
+535,QEunwind,"Long Term Investing,Global Macro,Fundamentals"
+536,tsx,Equities
+537,optionaction,"Options,Equities,News"
+538,superperformancekings,"Options,Momentum Trading"
+539,momotraders,"Day Trading,Momentum Trading,Education"
+540,ChartPorn,"Day Trading,Fundamentals,Technicals"
+541,growth_stocks,"Long Term Investing,Momentum Trading,Equities"
+542,ButtHurtBagHolders,"Cryptocurrencies,Day Trading,Swing Trading"
+543,CryptoTA,"Cryptocurrencies,Day Trading,Technicals"
+544,tradinglearning101,"Day Trading,Education,Technicals"
+545,futurestrading,"Futures,Day Trading"
+546,biotech1,Biotechnology
+547,PremarketTrading,"Day Trading,Equities,News"
+548,optionsdaytraders,"Options,Day Trading,Education"
+549,mining,Cryptocurrencies
+550,socialmedia,News
+551,backprop,"Options,Long Term Investing"
+552,resources,Equities
+553,LQMT,Equities
+554,trump,News
+555,riskypop,"Day Trading,Swing Trading,Momentum Trading"
+556,chino,"Swing Trading,Momentum Trading,News"
+557,dividendIdeas,"Equities,ETFs,Personal Finance"
+558,lowrsi,Swing Trading
+559,betterthanyesterday,"Day Trading,Long Term Investing,Personal Finance"
+560,tradeearnings,"Options,Swing Trading,Equities"
+561,pumpingstocks,Momentum Trading
+562,techstocks,Technology
+563,deepmicrocapvalue,Fundamentals
+564,TheHotTip,"Day Trading,ETFs"
+565,crypto_investing,Cryptocurrencies
+566,JTrading,Day Trading
+567,leverage,"Momentum Trading,Technicals,ETFs"
+568,streetwhishpers,"Day Trading,Equities,News"
+569,optionoppportunities,Options
+570,CyberTraders,"Day Trading,Equities"
+571,short_term_swings,Swing Trading
+572,StocksUnhingedTradingRoom,"Day Trading,Technicals,News"
+573,oakriver,"Long Term Investing,Education,Fundamentals"
+574,forexswing,Forex
+575,EdmTrader,Momentum Trading
+576,semiconductor,Technology
+577,Public,"Day Trading,News"
+578,PIG,"Day Trading,Swing Trading"
+579,BenjaminGraham,"Long Term Investing,Fundamentals"
+580,Insiders,"Day Trading,Swing Trading,News"
+581,faangtechdow30,Swing Trading
+582,1990s,"Day Trading,Fundamentals"
+583,stockjumpers,News
+584,Day,Day Trading
+585,freemoney,"Options,Day Trading,Education"
+586,Beginner_Options,Options
+587,big_ron_coleman,"Precious Metals,Non-Market Talk"
+588,trac,Cryptocurrencies
+589,atmi,Cryptocurrencies
+590,UNIT,"Cryptocurrencies,Fundamentals"
+591,optiontradeforprofit,Options
+592,shipping,"Futures,Day Trading,Global Macro"
+593,bnty,Cryptocurrencies
+594,Possums_Log,Swing Trading
+595,cryptochemistry,"Cryptocurrencies,Day Trading,Swing Trading"
+596,forextrading,Forex
+597,forex,Forex
+598,Divine_Trades,"Cryptocurrencies,Day Trading,Technicals"
+599,swing,"Swing Trading,Technicals"
+600,ezfliptrading,"Day Trading,Swing Trading,Momentum Trading"
+601,tastytrade,Options
+602,tastyworks,Options
+603,colleagues,"Long Term Investing,Fundamentals,Personal Finance"
+604,biotechbyace,Biotechnology
+605,daytraderdan,"Day Trading,Momentum Trading,Technicals"
+606,pennystockalert,"Day Trading,Momentum Trading,Technicals"
+607,pharmastuff,Biotechnology
+608,qtmm,Technology
+609,SoldiersOfFortune,Forex
+610,cannabistalk,Swing Trading
+611,developers,Technology
+612,whaleclub,"Cryptocurrencies,Day Trading,Technology"
+613,cloud,Technology
+614,pennystocks4lyfe,Personal Finance
+615,technicals,"Day Trading,Momentum Trading,Technicals"
+616,shortsqueeze,Swing Trading
+617,pennytraders,"Day Trading,Swing Trading,Momentum Trading"
+618,memes,"Day Trading,Non-Market Talk,News"
+619,cehigh,Day Trading
+620,forexswingers,Forex
+621,Long_Term_ONLY,"Long Term Investing,Technicals,News"
+622,insanity,"Options,Day Trading,Equities"
+623,FastBreakFinance,"Long Term Investing,Equities,Technicals"
+624,jelly,"Day Trading,News,Personal Finance"
+625,Iluvstocks,"Day Trading,Swing Trading,Momentum Trading"
+626,EODTrading,"Swing Trading,Equities,ETFs"
+627,millicrypto,Education
+628,teamcrypto,Cryptocurrencies
+629,stocktradinglearninggroup,"Momentum Trading,Education,Biotechnology"
+630,papichulo,"Cryptocurrencies,Long Term Investing,Technology"
+631,BadAssWomenInvest,"Education,Equities,Non-Market Talk"
+632,cryptocash,Cryptocurrencies
+633,elliottwave,Technicals
+634,stocktrading,"Cryptocurrencies,Day Trading,Energy"
+635,bulls,"Day Trading,Swing Trading,Technicals"
+636,securityanalysis,Fundamentals
+637,etf_rotation,ETFs
+638,forexbrokers,Non-Market Talk
+639,leadersofopec,Energy
+640,exchange_traded_fund,ETFs
+641,ritsos,"Forex,Technicals"
+642,banano,Cryptocurrencies
+643,losangelestraders,"Options,Day Trading,Technology"
+644,stockstreamtv,"Education,Technology"
+645,GoldJuniors,Precious Metals
+646,intraweeklybtcswings,Swing Trading
+647,soleeeek,Day Trading
+648,biotechtrading,Biotechnology
+649,tech_news,Technology
+650,wyckoff_livermore_traders,Day Trading
+651,DayTrading_for_Income,"Day Trading,Equities"
+652,thenextfaangstocks,Long Term Investing
+653,Algos4Futures,"Futures,Quant"
+654,TTCrypto,Cryptocurrencies
+655,technews,Technology
+656,TradingFutures,Futures
+657,SaaS,Technology
+658,Cryptocurrency_Blockchain,"Cryptocurrencies,Fundamentals,Technicals"
+659,FOMONATION,"Day Trading,Momentum Trading,Technology"
+660,tradeflags,"Momentum Trading,Equities,Technicals"
+661,ema8,Day Trading
+662,Short_Squeeze,Swing Trading
+663,twit,"Day Trading,Swing Trading,Long Term Investing"
+664,zerogainz,"Options,Swing Trading,Personal Finance"
+665,Claytrader25,Technicals
+666,personalfinance,"Long Term Investing,News,Personal Finance"
+667,Momentum_Breakout_Plays,"Momentum Trading,Fundamentals,Technicals"
+668,buy_sell_hold,"Cryptocurrencies,Day Trading,Long Term Investing"
+669,stocktwitsdaytrade,"Day Trading,Equities,Technicals"
+670,ChartSetups,"Day Trading,Swing Trading,Technicals"
+671,noobs,"Day Trading,Long Term Investing,Momentum Trading"
+672,sexy,Non-Market Talk
+673,dayprofit,"Day Trading,Swing Trading,Momentum Trading"
+674,MarketWizards,"Swing Trading,Momentum Trading,Technicals"
+675,losemoneywithfriends,"Cryptocurrencies,Options,Day Trading"
+676,china_tech,"Long Term Investing,Technology"
+677,Community,Non-Market Talk
+678,DaVinci,"Day Trading,Swing Trading,Education"
+679,Energy_Solar,"Long Term Investing,Equities,Energy"
+680,tradebuddy,"Day Trading,Technicals"
+681,crispertechnologies,"Equities,Technology,Biotechnology"
+682,mjtrading,"Day Trading,Swing Trading,Biotechnology"
+683,TrumpTraders,"Day Trading,Swing Trading"
+684,psychology,Education
+685,cryptoroom,"Cryptocurrencies,Technology,Biotechnology"
+686,lookingforunicorns,"Swing Trading,Long Term Investing,Equities"
+687,kirchhoftradingovernight,Swing Trading
+688,stockflix,"Day Trading,Long Term Investing,News"
+689,vegas,"Day Trading,Momentum Trading,Education"
+690,Volatility_Pros,"Swing Trading,Equities"
+691,roundtabletrading,"Cryptocurrencies,Swing Trading,Technicals"
+692,atrium,"Day Trading,Swing Trading,Technology"
+693,collegetraders,Education
+694,Tradeflix,News
+695,cryptopolis,"Cryptocurrencies,Education,Technology"
+696,tape_reading,Day Trading
+697,ValueMomentum,"Momentum Trading,Equities,Fundamentals"
+698,ThinkLearnSucceed,"Day Trading,Education,Technicals"
+699,ScamStocks,Equities
+700,profit_planet,Day Trading
+701,blessedtoinvest,"Long Term Investing,Education,Quant"
+702,TopGunFutures,"Futures,Day Trading,Technicals"
+703,profitplanet,"Day Trading,Momentum Trading,Equities"
+704,XXX,News
+705,Arbitrary,Fundamentals
+706,StockFoolery,Equities
+707,momentumwealth,"Swing Trading,Momentum Trading,Technicals"
+708,lowfloatpenny,"Day Trading,Swing Trading"
+709,techplays,Technology
+710,fortnite,Options
+711,bdcworld,"Long Term Investing,Equities,Fundamentals"
+712,CouchInvestors_Members,"Global Macro,Education,Personal Finance"
+713,StockJunkies,Day Trading
+714,HEMPMONEY,"Swing Trading,Equities,News"
+715,Innovation,Cryptocurrencies
+716,TheInnovativeInvestor,"Cryptocurrencies,Technology,Biotechnology"
+717,DISRUPTIVE,Cryptocurrencies
+718,lowfloats,Day Trading
+719,DisruptiveInvesting,Cryptocurrencies
+720,augmented_reality,Technology
+721,BaronKarza,Education
+722,growpoints,Non-Market Talk
+723,wallstreet_bets,"Momentum Trading,Equities,Technicals"
+724,smallaccounttrading,"Swing Trading,Momentum Trading,Technicals"
+725,daytradingoptions,Options
+726,AR_VR,Technology
+727,DRONES,Technology
+728,risk,"Day Trading,Momentum Trading,Technicals"
+729,IOT,Technology
+730,InternetOfThings,Education
+731,ConnectedEconomy,Education
+732,omar,"Options,Day Trading"
+733,GIGEconomy,Education
+734,investin,"Long Term Investing,Education,News"
+735,WEBv3,Technology
+736,riskmanagement,"Day Trading,Education,Equities"
+737,invest,"Long Term Investing,Education,News"
+738,NEWBIES,Education
+739,Gaming,Technology
+740,uranium,"Long Term Investing,Energy"
+741,techgrowth,Long Term Investing
+742,MedTech,"Technology,Biotechnology"
+743,FinTec,Technology
+744,tradingideas,"Cryptocurrencies,Day Trading,Biotechnology"
+745,BioTec,Biotechnology
+746,Profit,"Education,Personal Finance"
+747,ChartSchool,Education
+748,todamoooon,Day Trading
+749,trad,"Long Term Investing,Education,News"
+750,Admin,Education
+751,Future,Technology
+752,FutureTech,Technology
+753,Tech101,Education
+754,Investing101,Education
+755,Investing201,Education
+756,AdvancedInvesting,Education
+757,TechInvesting101,Education
+758,TechInvesting201,Education
+759,Forecast,Education
+760,ProfitForecast,Education
+761,MotleyFool,Education
+762,sensei,"Day Trading,Education,Technicals"
+763,Stansbury,Education
+764,Forbes,Education
+765,Citron,Education
+766,StockTwitPremium,Education
+767,MotleyFools,Education
+768,WallSt,Education
+769,moneymoney,"Day Trading,Long Term Investing"
+770,InvesTech,"Education,News"
+771,TechAdvisor,Education
+772,roblo,Non-Market Talk
+773,TechTrends,"Global Macro,Education,Technology"
+774,CrystalBall,Education
+775,Predictions,Education
+776,IntelligentInvestor,Education
+777,latino,"Cryptocurrencies,Education,Biotechnology"
+778,moneydrip,Momentum Trading
+779,MorningStar,Education
+780,minecraft,Non-Market Talk
+781,Futurist,Education
+782,TheFuturist,Education
+783,longoptions,Options
+784,TheFuturists,Education
+785,Futurists,Education
+786,metals,"Global Macro,Fundamentals,Precious Metals"
+787,nznz,"Equities,ETFs"
+788,Slack,Personal Finance
+789,ElliottWaveCounts,"Day Trading,Equities,Technicals"
+790,analysis4profits,"Long Term Investing,Momentum Trading,Biotechnology"
+791,winnersstaywinners,Long Term Investing
+792,SeekingAlpha,Education
+793,StockGumshoe,Education
+794,StockAdvisor,Education
+795,RobinHoodPuertoRico,"Day Trading,Long Term Investing,Momentum Trading"
+796,ChartGuys,"Day Trading,Education,Technicals"
+797,phase123_fda,Biotechnology
+798,TheOptionsHouse,Options
+799,Experienced_TradersOnly,"Options,Education,Technicals"
+800,Silver,Precious Metals
+801,zbillionaireclub,"Cryptocurrencies,Equities,ETFs"
+802,noworries,"Options,Day Trading,Equities"
+803,hashtaginvesting,"Long Term Investing,Education,Quant"
+804,dividendetfs,ETFs
+805,lowfloatstocks,Momentum Trading
+806,block_chain,Technology
+807,chinalovers,Fundamentals
+808,optionstrader,"Options,Swing Trading,Momentum Trading"
+809,longcrypto,Cryptocurrencies
+810,cryptotrader,"Cryptocurrencies,Fundamentals,Technicals"
+811,superstocks,"Long Term Investing,Equities,Fundamentals"
+812,canadian,"Long Term Investing,News,Personal Finance"
+813,smartinvesting,"Long Term Investing,Fundamentals,Technicals"
+814,Avidtraderchat,"Futures,Swing Trading,Technicals"
+815,optionsashda,Day Trading
+816,cryptocalls,Cryptocurrencies
+817,behavioral_finance,Global Macro
+818,BIOEOS,"Options,Education,Biotechnology"
+819,gifs,Non-Market Talk
+820,lowfloattrading,"Day Trading,Momentum Trading,Technicals"
+821,optionsniper,"Options,Swing Trading,Technicals"
+822,MAGA,News
+823,pennymania,"Day Trading,Momentum Trading,Technicals"
+824,lowfloatmania,"Day Trading,Momentum Trading,Technicals"
+825,daytradingpennies,"Day Trading,Swing Trading,Momentum Trading"
+826,TradingTank,Options
+827,options_trading,"Options,Day Trading,Swing Trading"
+828,flagbreakout,"Swing Trading,Technicals"
+829,pennycaller,"Day Trading,Momentum Trading,Technicals"
+830,undervaluedstocks,Fundamentals
+831,moneymakers,"Day Trading,Swing Trading,Momentum Trading"
+832,optionstrats,Options
+833,squirtersonly,Equities
+834,volatileoptions,Options
+835,emoney,Swing Trading
+836,optionsnoobs,Options
+837,smartmoney,"Technology,ETFs,Energy"
+838,RobinhoodTrading,"Day Trading,Swing Trading,Technicals"
+839,yolo4yachts,"Options,Day Trading,Education"
+840,StockTwitsAMA,Education
+841,slothcity,"Options,Swing Trading,Education"
+842,OptionsTradingEdu,"Options,Day Trading"
+843,OpinicusHoldings,"Options,Day Trading,Education"
+844,stocktraders,"Education,Equities,Technicals"
+845,scalptraders,"Momentum Trading,Fundamentals,Personal Finance"
+846,stockmemes,Non-Market Talk
+847,scalpers,"Options,Day Trading"
+848,techandfundamentals,Technicals
+849,CoveredCalls,Options
+850,ncvnnews,News
+851,alphabiotech,Biotechnology
+852,techanalysis,Technicals
+853,Arora,"Equities,Technology,ETFs"
+854,livingourbestlife,"Day Trading,Momentum Trading,Personal Finance"
+855,TheAroraReport,"Equities,Technology,ETFs"
+856,StockMarketTrading,"Day Trading,Swing Trading,Equities"
+857,NigamArora,"Long Term Investing,Equities,ETFs"
+858,earningreports,"Options,Day Trading,Momentum Trading"
+859,PennyStockz,Day Trading
+860,ivcrush,Options
+861,Investor,Long Term Investing
+862,CannabisCup,Equities
+863,fomo,"Options,Day Trading,News"
+864,Smart_money,"Day Trading,Swing Trading,Technology"
+865,reversals4daytraders,Day Trading
+866,Yoptions,"Options,Technology"
+867,Trade2win,"Day Trading,Swing Trading,Momentum Trading"
+868,marketmakers,"Options,Day Trading,News"
+869,optionsrus,Options
+870,cashmeoutside,"Long Term Investing,Personal Finance"
+871,Over_60_Investing,"Equities,ETFs,Personal Finance"
+872,trwstocks,"Day Trading,Swing Trading,Momentum Trading"
+873,techprotrading,Options
+874,WeinsteinStocks,"Momentum Trading,Technicals"
+875,longt,Equities
+876,fightingthetrend,"Day Trading,Swing Trading,Momentum Trading"
+877,oldschoolinvestingwins,"Education,Fundamentals,Personal Finance"
+878,scorpio244,"Global Macro,Equities,Technicals"
+879,Emerging_Markets_Stocks,"Long Term Investing,Equities,ETFs"
+880,SpreadKing,"Options,Day Trading,Swing Trading"
+881,investingtips,Swing Trading
+882,overtrading,"Day Trading,Education"
+883,notlisteningtotwits,"Day Trading,Long Term Investing,Biotechnology"
+884,AI_and_Quant_Investing,Quant
+885,eatsleeptrade,"Options,Day Trading,Swing Trading"
+886,momentummilitia,Day Trading
+887,TOSoptions,Options
+888,whereisrandy,Non-Market Talk
+889,weedstocks,Day Trading
+890,short_sellers,"Day Trading,Equities"
+891,cryptotrenz,Cryptocurrencies
+892,momotrades,"Day Trading,Swing Trading,Momentum Trading"
+893,option,"Options,Technicals"
+894,vcp,Swing Trading
+895,caregroup,Biotechnology
+896,1985,"Cryptocurrencies,Swing Trading,Biotechnology"
+897,maryjane,"Biotechnology,Energy,Green Energy"
+898,trumpdump,Day Trading
+899,swingAndScalp,Swing Trading
+900,StocksUnhingedRoom,"Day Trading,Swing Trading,Momentum Trading"
+901,chinadomination,Long Term Investing
+902,renewables,Green Energy
+903,yachtclublilb,Non-Market Talk
+904,optionsclub,"Options,Technology"
+905,Northof49,"Swing Trading,Long Term Investing,Momentum Trading"
+906,Robinhooddaytrading,"Day Trading,Technology,Biotechnology"
+907,VSQ,"Options,Day Trading,Swing Trading"
+908,alltrades,Swing Trading
+909,level3margin,Options
+910,IsBitcoinKing,"Cryptocurrencies,Long Term Investing,Technology"
+911,growthdrugcompany,Biotechnology
+912,partridge,Personal Finance
+913,win,Options
+914,undertheradar,Long Term Investing
+915,Supertrader,"Day Trading,Swing Trading,Momentum Trading"
+916,BearMarket,"Cryptocurrencies,Day Trading,Long Term Investing"
+917,pakistan,Day Trading
+918,baystreet,Swing Trading
+919,growth101,"Long Term Investing,Equities,Fundamentals"
+920,yourbestidea,Long Term Investing
+921,DayTrading_Futures,"Futures,Day Trading,Swing Trading"
+922,_cash_gang_,News
+923,Elitetrader,"Day Trading,Swing Trading,Momentum Trading"
+924,doubledown,"Long Term Investing,Momentum Trading,Equities"
+925,DiamondSetups,Futures
+926,they,"Day Trading,Biotechnology,Fundamentals"
+927,shortsell,"Day Trading,Swing Trading,Momentum Trading"
+928,organigram,"Fundamentals,News"
+929,poor,"Options,Technology,Personal Finance"
+930,tradeforliving,"Day Trading,Swing Trading,Technicals"
+931,homerunners,Options
+932,world_copper,"Precious Metals,News"
+933,oil_gas_e_p_stocks,Energy
+934,optionsmann,"Options,Swing Trading"
+935,OptionStrategies,Day Trading
+936,profterideas,Day Trading
+937,faangbat,ETFs
+938,trading_psychology,"Day Trading,Swing Trading,Momentum Trading"
+939,robihood,News
+940,10xtrades,Momentum Trading
+941,best_day_trades,Day Trading
+942,IPOs,Equities
+943,LearnToTrade,Education
+944,candlesticks,"Momentum Trading,Education,Technicals"
+945,BTMFD,"Options,Swing Trading,Technology"
+946,Tickertutor,"Day Trading,Education"
+947,GoldAndSllver,Precious Metals
+948,cannabis,"Swing Trading,Equities,Fundamentals"
+949,longandshortgains,"Options,Technicals,Energy"
+950,optionalert,Options
+951,defense,Equities
+952,stockvalueinvesting,Swing Trading
+953,ETFtrading,"Day Trading,Swing Trading,Long Term Investing"
+954,howtomakemoney,"Day Trading,Education,Equities"
+955,quantswingtraders,"Swing Trading,Technicals,Quant"
+956,MomentumTraders,Momentum Trading
+957,bullsvsbears,"Day Trading,Swing Trading,Education"
+958,fundamentalgains,"Options,Swing Trading,Fundamentals"
+959,GapAndGo,Technicals
+960,callorput,Options
+961,Charting,Technicals
+962,canslim,Swing Trading
+963,HotPicks,Technicals
+964,Hot,Day Trading
+965,IntradayTrading,Day Trading
+966,Intraday,Day Trading
+967,Tickers,Day Trading
+968,PremiumRoom,Day Trading
+969,CandlestickPatterns,"Swing Trading,Momentum Trading"
+970,HotTips,Day Trading
+971,Winners,Day Trading
+972,Platinum,Day Trading
+973,updates,"Cryptocurrencies,Momentum Trading,Education"
+974,Diamond,Day Trading
+975,Bronze,Day Trading
+976,GoldRoom,Day Trading
+977,BronzeRoom,Day Trading
+978,PlatinumRoom,Day Trading
+979,Trades,Day Trading
+980,IntradayTraders,Day Trading
+981,investstrategies,"Options,Long Term Investing,Fundamentals"
+982,yourmom,"Options,ETFs"
+983,Bears,Day Trading
+984,vegasmonieschizzle,Day Trading
+985,BullsandBears,Day Trading
+986,InsiderTrades,Day Trading
+987,ActiveTraders,Day Trading
+988,Active,Day Trading
+989,Investors,Long Term Investing
+990,ShortTerm,Day Trading
+991,LongStrategies,Education
+992,ShortStrategies,Education
+993,Long,Equities
+994,SellShort,Equities
+995,Scalping,Day Trading
+996,Warriors,Day Trading
+997,ManagingRisk,Education
+998,RHOptions,Day Trading
+999,TradingStrategies,Education
+1000,Brokers,Technology

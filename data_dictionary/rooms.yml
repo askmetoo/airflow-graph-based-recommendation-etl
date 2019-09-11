@@ -1,0 +1,103 @@
+table: rooms
+description: metadata about stocktwits rooms
+fields: 
+  - name: id
+    type: int
+    description: id of the room
+    source: backend database
+  - name: slug
+    type: varchar
+    description: the name of the room
+    source: backend database
+  - name: biotechnology
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic biotechnology
+    source: derived based on topics field from backend database
+  - name: cryptocurrencies
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic cryptocurrencies
+    source: derived based on topics field from backend database
+  - name: day_trading
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic day_trading
+    source: derived based on topics field from backend database
+  - name: etfs
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic etfs
+    source: derived based on topics field from backend database
+  - name: education
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic education
+    source: derived based on topics field from backend database
+  - name: energy
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic energy
+    source: derived based on topics field from backend database
+  - name: equities
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic equities
+    source: derived based on topics field from backend database
+  - name: forex
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic forex
+    source: derived based on topics field from backend database
+  - name: fundamentals
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic fundamentals
+    source: derived based on topics field from backend database
+  - name: futures
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic futures
+    source: derived based on topics field from backend database
+  - name: global_macro
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic global_macro
+    source: derived based on topics field from backend database
+  - name: green_energy
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic green_energy
+    source: derived based on topics field from backend database
+  - name: long_term_investing
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic long_term_investing
+    source: derived based on topics field from backend database
+  - name: momentum_trading
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic momentum_trading
+    source: derived based on topics field from backend database
+  - name: news
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic news
+    source: derived based on topics field from backend database
+  - name: non_market_talk
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic non_market_talk
+    source: derived based on topics field from backend database
+  - name: options
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic options
+    source: derived based on topics field from backend database
+  - name: personal_finance
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic personal_finance
+    source: derived based on topics field from backend database
+  - name: precious_metals
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic precious_metals
+    source: derived based on topics field from backend database
+  - name: quant
+    type: smallint
+    description: indicator field indicating if the user is tagged with the topic quant
+    source: derived based on topics field from backend database
+  - name: swing_trading
+    type: smallint`
+    description: indicator field indicating if the user is tagged with the topic swing_trading
+    source: derived based on topics field from backend database
+  - name: technicals
+    type: smallint`
+    description: indicator field indicating if the user is tagged with the topic technicals
+    source: derived based on topics field from backend database
+  - name: technology
+    type: smallint`
+    description: indicator field indicating if the user is tagged with the topic technology
+    source: derived based on topics field from backend database

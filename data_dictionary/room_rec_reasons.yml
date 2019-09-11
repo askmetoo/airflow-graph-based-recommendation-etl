@@ -1,0 +1,15 @@
+table: room_rec_reasons
+description: many to one relationship for a given user_id, rec_id pair specifiying the users that user_id engaged with that lead to the recommendation of rec_id
+fields: 
+  - name: user_id
+    type: int
+    description: id of the user the recommendation for
+    source: backend database
+  - name: rec_id
+    type: int
+    description: room_id of the room being recommended based on 2nd degree connections of the user (i.e. rooms that the users user_id engages with alot engage with alot)
+    source: derived based on social_recommendation_etl airflow dag 
+  - name: reason_id
+    type: int
+    description: the user_id of a user who user_id engaged with that lead to the recommendation of rec_id
+    source: derived based on social_recommendation_etl airflow dag 

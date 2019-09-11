@@ -1,0 +1,47 @@
+table: users
+description: metadata about stocktwits users
+fields: 
+  - name: id
+    type: int
+    description: id of the user
+    source: backend database
+  - name: username
+    type: varchar
+    description: users loging on stocktwits 
+    source: backend database
+  - name: experience
+    type: varchar
+    description: users self specified level of experience
+    source: backend database
+  - name: approach
+    type: varchar
+    description: users self specified approach to investing
+    source: backend database
+  - name: holding_period
+    type: varchar
+    description: users self specified typical holding period
+    source: backend database
+  - name: bonds
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade bonds
+    source: derived based on assets_traded from backedn database
+  - name: equities
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade equities
+    source: derived based on assets_traded from backedn database
+  - name: forex
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade forex
+    source: derived based on assets_traded from backedn database
+  - name: futures
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade futures
+    source: derived based on assets_traded from backedn database
+  - name: options
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade options
+    source: derived based on assets_traded from backedn database
+  - name: private_companies
+    type: smallint
+    description: indicator field indicating if the users speficies that they trade private_companies
+    source: derived based on assets_traded from backedn database
