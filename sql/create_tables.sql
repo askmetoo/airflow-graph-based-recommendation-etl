@@ -45,7 +45,7 @@ CREATE TABLE rooms (
     slug                varchar NOT NULL
     biotechnology       smallint,
     cryptocurrencies    smallint,
-    day_trading          smallint,
+    day_trading         smallint,
     etfs                smallint,
     education           smallint,
     energy              smallint,
